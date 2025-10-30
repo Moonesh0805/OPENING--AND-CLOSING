@@ -66,28 +66,16 @@ plt.axis("off")
 ## Output:
 
 ### Display the input Image
-<br>
-<br>
-<br><img width="400" height="100" alt="download" src="https://github.com/user-attachments/assets/595b5a0b-494a-4bbf-875f-39e5a7182300" />
-<br>
-<br>
-<br>
+<img width="610" height="178" alt="Screenshot 2025-10-30 153254" src="https://github.com/user-attachments/assets/dab9eb1a-1791-4aab-bcfe-2c2b8cb32971" />
+
 
 ### Display the result of Opening
-<br>
-<br>
-<br>
-<br><img width="515" height="144" alt="download" src="https://github.com/user-attachments/assets/7ea4953f-caa0-4f6f-9e51-6b7d26cb0f2c" />
-<br>
-<br>
+<img width="822" height="231" alt="Screenshot 2025-10-30 153336" src="https://github.com/user-attachments/assets/cd5ba0bd-9289-410f-975e-84ed864d3f7f" />
+
 
 ### Display the result of Closing
-<br>
-<br>
-<br>
-<br><img width="515" height="144" alt="download" src="https://github.com/user-attachments/assets/291382e0-4ddf-4546-816e-3c0fbf1f6eee" />
-<br>
-<br>
+<img width="779" height="222" alt="Screenshot 2025-10-30 153402" src="https://github.com/user-attachments/assets/6ae587c1-30dd-4924-9e04-0f3af7d662f1" />
+
 
 ## Result
 Thus the Opening and Closing operation is used in the image using python and OpenCV.
